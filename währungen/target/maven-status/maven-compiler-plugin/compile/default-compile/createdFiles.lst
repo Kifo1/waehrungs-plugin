@@ -1,0 +1,11 @@
+kifo\de\waehrungen\utils\Config.class
+kifo\de\waehrungen\bank\Account.class
+kifo\de\waehrungen\Main.class
+kifo\de\waehrungen\bank\StateAccount.class
+kifo\de\waehrungen\commands\SetMayorCommand.class
+kifo\de\waehrungen\bank\AccountManager.class
+kifo\de\waehrungen\commands\BalanceCommand.class
+kifo\de\waehrungen\commands\PayCommand.class
+kifo\de\waehrungen\commands\StateAccountCommand.class
+kifo\de\waehrungen\mayor\Mayor.class
+kifo\de\waehrungen\commands\getMayorCommand.class

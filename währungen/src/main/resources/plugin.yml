@@ -1,0 +1,18 @@
+name: waehrungen
+version: '${project.version}'
+main: kifo.de.waehrungen.Main
+api-version: 1.19
+
+commands:
+  kontostand:
+    description: Zeigt deinen Kontostand an.
+    aliases: [konto]
+  pay:
+    description: Gebe einem anderen Spieler Geld.
+  staatskonto:
+    description: Zeigt das Geld auf dem Staatskonto an.
+    aliases: [skonto]
+  setMayor:
+    description: Ernenne einen Spieler zum Bürgermeister.
+  getMayor:
+    description: Zeigt an, wer aktuell der Bürgermeister ist.
